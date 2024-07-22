@@ -1,0 +1,9 @@
+1. python -m venv env
+2. pip install tensorflow==2.10.0
+3. pip install notebook==6.4.12
+4. pip install jupyter_contrib_nbextensions
+5. pip install traitlets==5.9.0
+6. pip install --upgrade notebook
+7. pip install numpy==1.26.4
+8. pip install gspread gspread-dataframe google pydrive pandas
+9. jupyter notebook
